@@ -1,0 +1,12 @@
+
+{
+  "name": "Game-pong",
+  "short_name": "Pong",
+  "description": "Un jeu Pong amusant sur mobile.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101820",
+  "theme_color": "#101820"
+}
